@@ -1,5 +1,5 @@
 # SQL_revision
-Revision of core SQL topics:
+Revision of core SQL topics by working on the famous Northwind database.:
 - SELECT
 - FROM
 - INNER JOIN
